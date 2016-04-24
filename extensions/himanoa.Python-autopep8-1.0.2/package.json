@@ -1,0 +1,60 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "d552b939-38e0-46cd-9295-8b7880b43d6c",
+		"publisherId": "2191c387-5ae6-499b-98fc-4c9cdd7f8799",
+		"publisherDisplayName": "himanoa",
+		"installCount": 1208,
+		"versions": [
+			{
+				"version": "1.0.2",
+				"date": "2016-02-16T07:42:44.67Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://himanoa.gallery.vsassets.io/_apis/public/gallery/publisher/himanoa/extension/Python-autopep8/1.0.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://himanoa.gallery.vsassets.io/_apis/public/gallery/publisher/himanoa/extension/Python-autopep8/1.0.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "1.0.1",
+				"date": "2016-02-16T07:37:45.74Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://himanoa.gallery.vsassets.io/_apis/public/gallery/publisher/himanoa/extension/Python-autopep8/1.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://himanoa.gallery.vsassets.io/_apis/public/gallery/publisher/himanoa/extension/Python-autopep8/1.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "Python-autopep8",
+	"displayName": "Python-autopep8",
+	"description": "This is a vscode-extension that applies autopep8 to your current file.",
+	"version": "1.0.2",
+	"publisher": "himanoa",
+	"engines": {
+		"vscode": "^0.10.6"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:extension.sayHello"
+	],
+	"main": "./extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.sayHello",
+				"title": "autopep8"
+			}
+		]
+	},
+	"scripts": {
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"devDependencies": {
+		"vscode": "^0.11.0"
+	}
+}

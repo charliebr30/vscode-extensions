@@ -1,0 +1,121 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "25091d5b-da4b-45c3-893e-cb1bd7a27cda",
+		"publisherId": "a17b58ea-6357-4fe4-9eec-004515f9b89b",
+		"publisherDisplayName": "liuji-jim",
+		"installCount": 2261,
+		"versions": [
+			{
+				"version": "0.1.2",
+				"date": "2016-01-05T08:14:28.573Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.1.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.1.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.1",
+				"date": "2016-01-05T08:04:40.413Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.1.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.1.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.0",
+				"date": "2015-11-19T11:11:29.85Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.1.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.1.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.3",
+				"date": "2015-11-19T11:08:25.337Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.0.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.0.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.2",
+				"date": "2015-11-19T11:06:58.047Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.0.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.0.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.1",
+				"date": "2015-11-19T11:01:05.193Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://liuji-jim.gallery.vsassets.io/_apis/public/gallery/publisher/liuji-jim/extension/vue/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "vue",
+	"description": "Syntax Highlight for Vue.js",
+	"version": "0.1.2",
+	"author": "liuji-jim",
+	"publisher": "liuji-jim",
+	"icon": "images/vuejs-logo.png",
+	"keywords": [
+		"vue",
+		"vuejs",
+		"vue.js"
+	],
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/LiuJi-Jim/vscode-vue.git"
+	},
+	"categories": [
+		"Languages"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "vue",
+				"aliases": [
+					"Vue.js",
+					"vue"
+				],
+				"extensions": [
+					".vue"
+				],
+				"configuration": "./vue.configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "vue",
+				"scopeName": "text.html.vue",
+				"path": "./syntaxes/vue.tmLanguage"
+			}
+		],
+		"snippets": [
+			{
+				"language": "vue",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"license": "MIT"
+}

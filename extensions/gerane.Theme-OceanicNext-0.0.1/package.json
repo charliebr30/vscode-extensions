@@ -1,0 +1,47 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "accb6409-2360-4209-b8e1-73adab6f15a0",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "gerane",
+		"installCount": 901,
+		"versions": [
+			{
+				"version": "0.0.1",
+				"date": "2015-11-22T08:12:19.587Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-OceanicNext/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-OceanicNext/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "Theme-OceanicNext",
+	"displayName": "OceanicNext Theme",
+	"description": "OceanicNext Theme ported from the OceanicNext TextMate Theme",
+	"version": "0.0.1",
+	"publisher": "gerane",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.svg",
+	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-OceanicNext/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gerane/VSCodeThemes.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "OceanicNext",
+				"uiTheme": "vs-dark",
+				"path": "./themes/OceanicNext.tmTheme"
+			}
+		]
+	}
+}

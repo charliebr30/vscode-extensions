@@ -1,0 +1,77 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "3acfcc8d-a050-4675-8e49-cdc9f8945404",
+		"publisherId": "e9a76d04-24d4-44eb-a202-964f71acf59e",
+		"publisherDisplayName": "Sergii Naumov",
+		"installCount": 798,
+		"versions": [
+			{
+				"version": "0.0.4",
+				"date": "2016-01-26T09:59:09.27Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/theme-oceanicnext/0.0.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/theme-oceanicnext/0.0.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.3",
+				"date": "2016-01-26T09:50:52.22Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/theme-oceanicnext/0.0.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/theme-oceanicnext/0.0.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.2",
+				"date": "2016-01-26T09:44:53.213Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/theme-oceanicnext/0.0.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/theme-oceanicnext/0.0.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.1",
+				"date": "2016-01-25T14:08:10.37Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/theme-oceanicnext/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://naumovs.gallery.vsassets.io/_apis/public/gallery/publisher/naumovs/extension/theme-oceanicnext/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "theme-oceanicnext",
+	"displayName": "Theme - Oceanic Next",
+	"description": "Oceanic Next theme for VSCode + dimmed bg version for better looking UI",
+	"version": "0.0.4",
+	"publisher": "naumovs",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "preview.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Oceanic Next",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Oceanic_Next_std.tmTheme"
+			},
+			{
+				"label": "Oceanic Next (dimmed bg)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Oceanic_Next_dimmed.tmTheme"
+			}
+		]
+	}
+}

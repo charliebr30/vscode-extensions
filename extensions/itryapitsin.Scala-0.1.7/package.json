@@ -1,0 +1,87 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "47a8ab1d-bd06-49d1-b8aa-f394596b78dd",
+		"publisherId": "9667bc1a-f0d6-4756-b762-ecea1ebff39a",
+		"publisherDisplayName": "Iliya Tryapitsin",
+		"installCount": 2485,
+		"versions": [
+			{
+				"version": "0.1.7",
+				"date": "2015-11-19T20:43:25.133Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://itryapitsin.gallery.vsassets.io/_apis/public/gallery/publisher/itryapitsin/extension/Scala/0.1.7/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://itryapitsin.gallery.vsassets.io/_apis/public/gallery/publisher/itryapitsin/extension/Scala/0.1.7/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.6",
+				"date": "2015-11-19T20:40:32.397Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://itryapitsin.gallery.vsassets.io/_apis/public/gallery/publisher/itryapitsin/extension/Scala/0.1.6/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://itryapitsin.gallery.vsassets.io/_apis/public/gallery/publisher/itryapitsin/extension/Scala/0.1.6/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.5",
+				"date": "2015-11-19T20:39:21.267Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://itryapitsin.gallery.vsassets.io/_apis/public/gallery/publisher/itryapitsin/extension/Scala/0.1.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://itryapitsin.gallery.vsassets.io/_apis/public/gallery/publisher/itryapitsin/extension/Scala/0.1.5/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.3",
+				"date": "2015-11-19T20:25:17.02Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://itryapitsin.gallery.vsassets.io/_apis/public/gallery/publisher/itryapitsin/extension/Scala/0.1.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://itryapitsin.gallery.vsassets.io/_apis/public/gallery/publisher/itryapitsin/extension/Scala/0.1.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "Scala",
+	"version": "0.1.7",
+	"description": "Scala support for Visual Studio Code",
+	"engines": {
+		"vscode": ">=0.9.0-pre.1"
+	},
+	"publisher": "itryapitsin",
+	"icon": "images/scala.png",
+	"categories": [
+		"Languages"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/IliyaTryapitsin/vscode-scala.git"
+	},
+	"contributes": {
+		"languages": [
+			{
+				"id": "scala",
+				"aliases": [
+					"Scala",
+					"scala"
+				],
+				"extensions": [
+					".scala"
+				]
+			}
+		],
+		"grammars": [
+			{
+				"language": "scala",
+				"scopeName": "source.scala",
+				"path": "./syntaxes/scala.tmLanguage"
+			}
+		]
+	}
+}

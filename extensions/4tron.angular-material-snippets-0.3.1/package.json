@@ -1,0 +1,216 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "0d1e3174-c857-455a-9e25-999f283fc890",
+		"publisherId": "54f50dea-fc82-42b7-b82b-140c9a69c7e4",
+		"publisherDisplayName": "4tron",
+		"installCount": 1040,
+		"versions": [
+			{
+				"version": "0.3.1",
+				"date": "2016-02-27T10:26:02.917Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.3.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.3.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.3.0",
+				"date": "2016-02-27T10:24:04.247Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.3.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.3.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.2.0",
+				"date": "2016-02-27T09:50:27.44Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.2.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.2.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.1.0",
+				"date": "2016-02-27T07:50:05.72Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.1.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.1.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.13",
+				"date": "2016-02-23T16:32:52.333Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.13/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.13/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.12",
+				"date": "2016-02-21T15:59:07.16Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.12/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.12/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.11",
+				"date": "2016-02-21T15:01:16.297Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.11/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.11/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.10",
+				"date": "2016-02-21T14:38:48.063Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.10/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.10/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.9",
+				"date": "2016-02-21T14:21:56.877Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.9/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.9/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.8",
+				"date": "2016-02-21T13:31:45.61Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.8/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.8/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.7",
+				"date": "2016-02-20T20:05:43.75Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.7/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.7/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.6",
+				"date": "2016-02-20T19:49:43.127Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.6/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.6/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.5",
+				"date": "2016-02-20T19:43:14.923Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.5/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.4",
+				"date": "2016-02-20T19:30:40.403Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.3",
+				"date": "2016-02-20T14:53:28.71Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.2",
+				"date": "2016-02-20T14:49:59.36Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.1",
+				"date": "2016-02-20T14:44:04.83Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://4tron.gallery.vsassets.io/_apis/public/gallery/publisher/4tron/extension/angular-material-snippets/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "angular-material-snippets",
+	"displayName": "Angular Material Snippets",
+	"description": "Angular Material Snippets for VS Code",
+	"icon": "images/icon.png",
+	"version": "0.3.1",
+	"publisher": "4tron",
+	"license": "See License section in README.md",
+	"homepage": "https://github.com/4tron/angular-material-snippets-master/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/4tron/angular-material-snippets-master.git"
+	},
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"galleryBanner": {
+		"color": "#333",
+		"theme": "dark"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "html",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"gulp-jsonlint": "^1.1.2",
+		"gulp-util": "^3.0.7"
+	}
+}

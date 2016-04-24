@@ -1,0 +1,118 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "31ab3f3e-38aa-4b4e-9e3c-374a669b5af0",
+		"publisherId": "ef14079a-debd-4828-beb6-f2751f5ffaa7",
+		"publisherDisplayName": "behzad abbasi",
+		"installCount": 24,
+		"versions": [
+			{
+				"version": "0.0.7",
+				"date": "2016-04-23T04:30:27.313Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.7/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.7/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.6",
+				"date": "2016-04-23T04:07:31.257Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.6/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.6/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.5",
+				"date": "2016-04-22T15:01:58.85Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.5/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.4",
+				"date": "2016-04-22T14:59:26.163Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.4/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.3",
+				"date": "2016-04-22T13:42:52.683Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.3/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.2",
+				"date": "2016-04-22T13:38:53.893Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.2/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.1",
+				"date": "2016-04-22T12:50:37.183Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://behzad88.gallery.vsassets.io/_apis/public/gallery/publisher/behzad88/extension/Aurelia/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "Aurelia",
+	"publisher": "behzad88",
+	"displayName": "Aurelia Snippets",
+	"description": "Aurelia JavaScript, TypeScript and HTML snippets",
+	"icon": "images/logo.png",
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"license": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/behzad888/vscode-aurelia-snippets.git"
+	},
+	"version": "0.0.7",
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/javascript.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/typescript.json"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/html.json"
+			}
+		]
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "ce760cf8-0b51-49bd-ad0c-ad8a9f646773",
+		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+		"publisherDisplayName": "gerane",
+		"installCount": 1149,
+		"versions": [
+			{
+				"version": "0.0.1",
+				"date": "2015-11-22T08:10:18.42Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-Monokai/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-Monokai/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "Theme-Monokai",
+	"displayName": "Monokai Theme",
+	"description": "Monokai Theme ported from the Monokai TextMate Theme",
+	"version": "0.0.1",
+	"publisher": "gerane",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.svg",
+	"homepage": "https://github.com/gerane/VSCodeThemes/blob/master/gerane.Theme-Monokai/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gerane/VSCodeThemes.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Monokai.tmTheme"
+			}
+		]
+	}
+}

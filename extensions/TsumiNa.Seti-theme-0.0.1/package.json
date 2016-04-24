@@ -1,0 +1,40 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "f15d6127-5ea1-42c9-b6ac-b10e914370cf",
+		"publisherId": "dff7c415-af47-4ba5-b8ab-db86d572f273",
+		"publisherDisplayName": "TsumiNa",
+		"installCount": 2731,
+		"versions": [
+			{
+				"version": "0.0.1",
+				"date": "2015-11-20T08:45:32.16Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode",
+					"X-Market-User-Id": "af368df32db5a505704edda506b46a3f9e236f8d55aabee4b231eda06ce1b368"
+				},
+				"downloadUrl": "https://tsumina.gallery.vsassets.io/_apis/public/gallery/publisher/TsumiNa/extension/Seti-theme/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://tsumina.gallery.vsassets.io/_apis/public/gallery/publisher/TsumiNa/extension/Seti-theme/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "Seti-theme",
+	"description": "Seti_UI Port for VS Code",
+	"version": "0.0.1",
+	"publisher": "TsumiNa",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Seti",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Seti.tmTheme"
+			}
+		]
+	}
+}
